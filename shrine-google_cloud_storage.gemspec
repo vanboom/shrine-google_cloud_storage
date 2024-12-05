@@ -1,8 +1,8 @@
 Gem::Specification.new do |gem|
   gem.name          = "shrine-google_cloud_storage"
-  gem.version       = "3.1.0"
+  gem.version       = "3.1.1"
 
-  gem.required_ruby_version = ">= 2.1"
+  gem.required_ruby_version = ">= 2.7"
 
   gem.summary      = "Provides Google Cloud Storage storage for Shrine."
   gem.homepage     = "https://github.com/renchap/shrine-google_cloud_storage"
